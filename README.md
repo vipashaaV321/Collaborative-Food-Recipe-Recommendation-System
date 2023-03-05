@@ -3,3 +3,7 @@
 Data_Preprocessing.ipynb : It consist the file of creating user-item rating matrix and making useful database (DataFrame).
 
 Matrix_completion_experiment : It was a try of using SVD to complete a random user-item rating matrix. 
+
+Baseline_estimate: It is a model based collaborative recommendation system which is implemented from scratch by deriving equations from the research paper
+
+MultiRound_Baseline : Multi-Round Recommendation system based on Baseline estimate
