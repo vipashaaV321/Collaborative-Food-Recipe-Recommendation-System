@@ -14,4 +14,4 @@ To evaluate the recommendation system, the script calculates precision and recal
 To run the script, you need to have the RAW_interactions.csv and RAW_recipes.csv files in the specified location. You can change the test size and k-values as per your requirement.
 
 ## Author
-Hiren Thakkar (Data Demystifiers)
+(Data Demystifiers)
