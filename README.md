@@ -53,7 +53,7 @@
 - User User collborative Recommendation system (Memory Based)
 
 ## Contribution:
-- In this Repository there are 5 branches:
+- There are 5 branches in this Repository :
 - Main : Final Versions are pushed
 - Vipasha : EDA, Data Preprocessing, Matrix Factorization Approaches with SVD (Single & Multiround RS)
 - Sarvesh : Data Preprocessing, BaseLine Estimation, Latent Factor Model (Single & Multiround RS)
