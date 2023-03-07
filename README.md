@@ -64,8 +64,7 @@
 - we have made a  web app for recommendations with user interface that allows users to interact with a recommendation system and receive personalized recommendations.
 - Link:https://github.com/thakkar-hiren/Collaborative-Recipe-Recommendation-System-Web-App
 
-## We are currently working on the paper "Scalable Collaborative Filtering with Jointly Derived Neighborhood
-Interpolation Weights"
+## We are currently working on the paper "Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights"
 
 * Interpolation of weights
 $$\min_w J(w) = \sum_{(u,i) \in S_{tr}} (R_{u,i} - \hat{R}{u,i})^2 + \lambda \sum{j=1}^n w_j^2$$
