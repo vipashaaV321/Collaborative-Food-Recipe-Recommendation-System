@@ -1,7 +1,7 @@
-#Recommendation System Assignment-2
+# Recommendation System Assignment-2
 
 ## Data
-- The dataset used in this project is the Food.com Recipes and Interactions dataset from Kaggle, which contains recipes and user interactions from the Food.com website. The dataset consists of two CSV files, one with recipe information and the other with user interaction information.
+- The dataset used in this Assignment is the Food.com Recipes and Interactions dataset from Kaggle, which contains recipes and user interactions from the Food.com website. The dataset consists of two CSV files, one with recipe information and the other with user interaction information.
 
 ## General Steps:
 - Preprocess data: preprocess the data and filter out irrelevant data, generate user-item rating matrix based on the data
