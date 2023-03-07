@@ -52,6 +52,13 @@
 9) User_User_Memory_based_Recommendation_System.ipynb
 - User User collborative Recommendation system (Memory Based)
 
+## Contribution:
+- In this Repository there are 5 branches:
+- Main : Final Versions are pushed
+- Vipasha : EDA, Data Preprocessing, Matrix Factorization Approaches with SVD (Single & Multiround RS)
+- Sarvesh : Data Preprocessing, BaseLine Estimation, Latent Factor Model (Single & Multiround RS)
+- Hiren: Item- Item based Collaborative Recommendations (Single & Multiround RS), webAPP deployment 
+- Vedant: Data Preprocessing, User-User based Collaborative Recommendation system
 
 ## Online Web Application:
 - we have made a  web app for recommendations with user interface that allows users to interact with a recommendation system and receive personalized recommendations.
